@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="lib" path="commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="commons-logging.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="commons-collections.jar"/>
+	<classpathentry kind="lib" path="druid-1.0.11.jar"/>
+	<classpathentry kind="lib" path="json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="commons-codec.jar"/>
+	<classpathentry kind="lib" path="ojdbc14.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="GbaseTch.jar"/>
+	<classpathentry kind="lib" path="neo4j-cypher-logical-plans-3.4-3.4.0-alpha08.jar"/>
+	<classpathentry kind="lib" path="neo4j-io-3.4.0-alpha08.jar"/>
+	<classpathentry kind="lib" path="neo4j-java-driver-1.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
